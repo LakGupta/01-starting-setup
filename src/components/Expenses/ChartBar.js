@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { useState } from 'react';
 import './ChartBar.css';
 
 const ChartBar = (props) => {
